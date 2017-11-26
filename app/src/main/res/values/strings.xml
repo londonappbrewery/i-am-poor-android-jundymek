@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="textView">I am Poor</string>
+    <string name="todo">TODO</string>
+    <string name="text2">Give me some money!!!</string>
+    <string name="paypal_btn">PayPal</string>
 </resources>
